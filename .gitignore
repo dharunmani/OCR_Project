@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.log
+*.sqlite3
+
+# Environment
+venv/
+.env/
+
+# IDEs
+.vscode/
+.idea/
+
+# Output files
+*.xlsx
+*.csv
+captures/
+ocr_results_backup_*.xlsx
+
+# OS files
+.DS_Store
+Thumbs.db
